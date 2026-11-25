@@ -1,0 +1,6 @@
+{
+  "name": "IVC SIYAM Game Booster",
+  "description": "Professional Android gaming optimization app with real-time RAM, CPU, and thermal telemetry, Free Fire, PUBG, and Minecraft profiles, authorized Shizuku integration, optional Termux runner, and reversible background optimization.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

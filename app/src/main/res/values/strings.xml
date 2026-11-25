@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">IVC SIYAM Game Booster</string>
+    <string name="brand_header">IVC SIYAM</string>
+    <string name="brand_subheader">GAME BOOSTER ENGINE</string>
+    <string name="nav_dashboard">Boost</string>
+    <string name="nav_profiles">Profiles</string>
+    <string name="nav_apps">Apps</string>
+    <string name="nav_tools">Tools</string>
+    <string name="action_boost_game">BOOST GAME</string>
+    <string name="action_revert_boost">REVERT SETTINGS</string>
+    <string name="action_launch_game">Launch</string>
+    <string name="cd_booster_hero">IVC SIYAM Game Booster core hardware telemetry visualization</string>
+    <string name="cd_profile_art">Game profile tactical artwork</string>
+    <string name="cd_brand_emblem">IVC SIYAM Game Booster emblem</string>
+    <string name="accessibility_overlay_description">Displays a persistent, low-profile real-time VSync frame cadence and thermal overlay pill over active games without reading screen content or input.</string>
+</resources>
